@@ -1,0 +1,54 @@
+/* container */
+.container {
+  width: 1440px;
+  margin: 0 auto;
+}
+/* header */
+.header {
+  background-color: darkgrey;
+  height: 100px;
+}
+.header-text {
+  font-size: 32px;
+  padding-top: 20px;
+  padding-left: 12px;
+}
+.header-comment {
+  text-decoration: none;
+  color: black;
+}
+.book {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* text size  */
+.chapter-name {
+  font-size: 20px;
+}
+
+.chapter-info {
+  list-style-type: none;
+  display: inline-block;
+  width: 25%;
+  margin: 50px;
+  padding: 5px 15px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+/* footer */
+.footer {
+  background-color: darkgrey;
+  height: 100px;
+}
+.footer-comment {
+  text-decoration: none;
+  color: black;
+}
+.footer-text {
+  font-size: 12px;
+  padding-top: 20px;
+  padding-left: 12px;
+}
