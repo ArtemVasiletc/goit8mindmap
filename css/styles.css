@@ -5,7 +5,7 @@
 }
 /* header */
 .header {
-  background-color: darkgrey;
+  background-color: whitesmoke ;
   height: 100px;
 }
 .header-text {
@@ -43,7 +43,7 @@
 
 /* footer */
 .footer {
-  background-color: darkgrey;
+  background-color: whitesmoke;
   height: 100px;
 }
 .footer-comment {
