@@ -46,6 +46,26 @@
   margin-right: auto;
   
 }
+.firstsc {
+  background-image: url(fonfullsize.jpg);
+  height: 1037px;
+}
+.maintext {
+  color: white;
+  font-size: 50px;
+}
+.mainpara {
+  width: 850px; 
+  color: white; 
+  font-size: 30px;
+}
+.paragtext {
+  width: 900px;
+  height: 627px;
+  padding-top: 100px;
+  padding-left: 50px;
+  text-align: center;
+}
 /* background color for li */
 .bgeen-color
 {
